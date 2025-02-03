@@ -4,3 +4,5 @@ cd
 touch
 top
 df -h
+ls -al
+rm
