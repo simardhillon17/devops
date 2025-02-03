@@ -1,0 +1,6 @@
+systenctl start jenkins
+systemctl stop jenkins
+systemctl restart jenkins
+systemctl status jenkins
+jenkins --version
+systemctl enable jenkins
